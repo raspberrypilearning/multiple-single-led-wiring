@@ -10,7 +10,7 @@ You will need:
 The diagram below shows **three** single LEDs attached to a Raspberry Pi Pico.
 
 + Attach LED one to **GP13** and the closest **GND** pin
-+ Attach LED two to **GP9** and the closest **GND** pin
++ Attach LED two to **GP8** and the closest **GND** pin
 + Attach LED three to **GP5** and the closest **GND** pin
 
 ![A diagram of a Raspberry Pi Pico attached to three LEDs.](images/multiple-leds.png)
