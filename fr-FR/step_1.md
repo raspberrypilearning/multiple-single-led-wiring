@@ -1,16 +1,16 @@
-You will need:
+Tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ Multiple LEDs in your choice of colour
-+ Enough resistors for each LED
-+ Enough socket-socket jumper wires for each LED
++ Un Raspberry Pi Pico
++ Plusieurs LED dans ton choix de couleur
++ Assez de résistances pour chaque LED
++ Assez de fils de liaison prise-prise pour chaque LED
 
-**Note:** The **positive** (long) leg of each LED should have a resistor attached. You should also attach jumper wires to both legs.
+**Remarque :** La broche **positive** (longue) de chaque LED doit avoir une résistance attachée. Tu dois également relier des fils cavaliers aux deux broches.
 
-The diagram below shows **three** single LEDs attached to a Raspberry Pi Pico.
+Le schéma ci-dessous montre **trois** LED simples reliés à un Raspberry Pi Pico.
 
-+ Attach LED one to **GP13** and the closest **GND** pin
-+ Attach LED two to **GP8** and the closest **GND** pin
-+ Attach LED three to **GP5** and the closest **GND** pin
++ Fixe la LED 1 à **GP13** et à la broche **GND** la plus proche
++ Fixe la LED 2 à **GP8** et à la broche **GND** la plus proche
++ Fixe la LED 3 à **GP5** et à la broche **GND** la plus proche
 
-![A diagram of a Raspberry Pi Pico attached to three LEDs.](images/multiple-leds.png)
+![Un schéma d'un Raspberry Pi Pico relié à trois LED.](images/multiple-leds.png)
