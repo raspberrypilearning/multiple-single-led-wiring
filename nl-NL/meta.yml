@@ -1,3 +1,4 @@
+---
 title: Bedraad meerdere enkele LED's
 hero_image: images/banner.png
 description: Een demonstratie van hoe je meerdere LED's kunt aansluiten op een Raspberry Pi Pico
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
-  - 
-    title: Bedraad meerdere enkele LED's
+  - title: Bedraad meerdere enkele LED's
