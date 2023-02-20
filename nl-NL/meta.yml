@@ -1,3 +1,4 @@
+---
 title: Wire multiple single LEDs
 hero_image: images/banner.png
 description: A demonstration of how to wire multiple single LEDs to a Raspberry Pi Pico
@@ -6,5 +7,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
-  - 
-    title: Wire multiple single LEDs
+  - title: Wire multiple single LEDs
