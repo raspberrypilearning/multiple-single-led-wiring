@@ -1,11 +1,11 @@
 Tu auras besoin de :
 
 + Un Raspberry Pi Pico
-+ Plusieurs LED dans ton choix de couleur
++ Plusieurs LEDs dans ton choix de couleur
 + Assez de résistances pour chaque LED
 + Assez de fils de liaison prise-prise pour chaque LED
 
-**Remarque :** La broche **positive** (longue) de chaque LED doit avoir une résistance attachée. Tu dois également relier des fils cavaliers aux deux broches.
+**Remarque :** La broche **positive** (longue) de chaque LED doit avoir une résistance attachée. Tu dois également relier des fils de liaison aux deux broches.
 
 Le schéma ci-dessous montre **trois** LED simples reliés à un Raspberry Pi Pico.
 
